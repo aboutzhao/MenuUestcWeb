@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menuuestcweb.MainActivity" >
+
+    <item 
+        android:id="@+id/tong_yuan"
+        android:title="通信学院"
+        />
+    <item 
+        android:id="@+id/dian_gong"
+        android:title="电工学院"
+        />
+    <item
+        android:id="@+id/wei_gu"
+        android:title="微固学院"
+        />
+    <item
+        android:id="@+id/guang_dian"
+        android:title="光电学院"/>
+    <item 
+        android:id="@+id/bai_du"
+        android:title="百度"/>
+        />
+</menu>
